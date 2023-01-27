@@ -355,7 +355,7 @@ a {
                top: 0;
              }
              
-             /* Container for image text */
+            
              .caption-container {
                text-align: center;
                background-color: rgba(232, 194, 39, 0.881);
@@ -363,13 +363,13 @@ a {
                color: white;
              }
              
-             /* Six columns side by side */
+             
              .column {
                float: left;
                width: 16.66%;
              }
              
-             /* Add a transparency effect for thumnbail images */
+             
              .demo {
                opacity: 0.7;
              }
@@ -409,7 +409,7 @@ a {
               }
 
               input[type=submit] {
-                background-color: #f1e543;
+                background-color: rgb(255, 204, 2);
                 color: white;
                 padding: 12px 20px;
                 border: none;
@@ -419,7 +419,7 @@ a {
               }
               
               input[type=submit]:hover {
-                background-color: #45a049;
+                background-color:rgb(255, 204, 2);
               }
               
              
