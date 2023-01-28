@@ -452,20 +452,24 @@ a {
               .left,
               .middle,
               .right {
+              
                 padding: 10px;
                 height: 300px; 
               }
               
               .left {
+                background-image: url("gato2.jpg");
                 grid-area: left;
               }
       
               .middle {
+                background-image: url("cao2.jpg");
                 grid-area: middle;
               }
               
        
-              .right {
+              .right { 
+                 background-image: url("cão1");
                 background-image: url("");
                 grid-area: right;
               }
