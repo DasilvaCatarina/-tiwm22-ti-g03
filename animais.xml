@@ -1,0 +1,62 @@
+<body> 
+
+ <animal>
+    <nome> Marley</nome>
+    <idade>3</idade>
+      <raça>bulldog frances</raça>
+ </animal>
+
+ <animal>
+ <nome>bolacha</nome>
+<idade>2</idade>
+  <raça>affenpinscher</raça>
+   </animal>
+    
+   <animal>
+    <nome>Milo</nome>
+    <idade>5m</idade>
+        <raça>Burmila branco </raça>
+    
+    </animal>
+     <animal>
+      <nome>Minnie </nome> 
+     <idade> 5m </idade>
+      <raça> Burmila branco</raça>
+      </animal>
+   
+      <animal>
+        <nome>Minnie </nome> 
+       <idade> 5m </idade>
+        <raça> Burmila branco</raça>
+        </animal>
+
+        <animal>
+            <nome>edgar </nome> 
+           <idade> 3 anos </idade>
+            <raça> Siames</raça>
+            </animal>
+
+          <animal>
+                <nome>edgar </nome> 
+               <idade> 3 anos </idade>
+                <raça> Siames</raça>
+                </animal>
+
+                <animal>
+                    <nome>rambo</nome> 
+                   <idade> 5 anos </idade>
+                    <raça> desconhecida </raça>
+                    </animal>
+
+                <animal>
+                        <nome>lucy  </nome> 
+                       <idade> 1 anos </idade>
+                        <raça>American whirehair</raça>
+                        </animal>
+        
+
+
+
+
+  
+</body>
