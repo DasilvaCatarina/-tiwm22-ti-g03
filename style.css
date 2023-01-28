@@ -460,14 +460,14 @@ a {
               
               .left {
                 background-image: url("gato2.jpg");
-                opacity:0.5;
+                opacity:0.6;
                 background-repeat: no-repeat;
                 grid-area: left;
               }
       
               .middle {
                 background-image: url("cao2.jpg");
-                opacity:0.5;
+                opacity:0.6;
                 background-repeat: no-repeat;
                 grid-area: middle;
               }
@@ -475,9 +475,9 @@ a {
        
               .right { 
                  background-image: url("cão1.jpg");
-                 opacity:0.5;
+                 opacity:0.6;
                  background-repeat: no-repeat;
-                background-image: url("");
+        
                 grid-area: right;
               }
               
