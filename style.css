@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    color: #666666;
+    color: #c3c3c3;
     font-size: 14px;
     font-family:Poppins;
     line-height: 1.80857;
@@ -52,6 +52,7 @@ h2 {
 }
 
 h3 {
+  background-color: rgb(255, 204, 2);
     font-size: 18px
 }
 
@@ -473,8 +474,8 @@ a {
               
        
               .right { 
-                 background-image: url("cão1");
-                 opacity:0.7;
+                 background-image: url("cão1.jpg");
+                 opacity:0.5;
                  background-repeat: no-repeat;
                 background-image: url("");
                 grid-area: right;
